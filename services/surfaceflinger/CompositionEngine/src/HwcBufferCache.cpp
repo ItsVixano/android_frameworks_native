@@ -24,7 +24,7 @@
 #include <ui/GraphicBuffer.h>
 #include <cstdlib>
 #include <cutils/properties.h>
-#include <QtiGrallocDefs.h>
+#include <gralloc_priv.h>
 
 // TODO(b/129481165): remove the #pragma below and fix conversion issues
 #pragma clang diagnostic pop // ignored "-Wconversion"

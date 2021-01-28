@@ -67,7 +67,7 @@
 #include "MonitoredProducer.h"
 #include "SurfaceFlinger.h"
 #include "TimeStats/TimeStats.h"
-#include "QtiGralloc.h"
+#include "gralloc_priv.h"
 
 #ifdef QTI_DISPLAY_CONFIG_ENABLED
 #include <config/client_interface.h>

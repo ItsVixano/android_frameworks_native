@@ -132,7 +132,7 @@
 
 #include "frame_extn_intf.h"
 #include "smomo_interface.h"
-#include "QtiGralloc.h"
+#include "gralloc_priv.h"
 #include "layer_extn_intf.h"
 
 #ifdef QTI_DISPLAY_CONFIG_ENABLED
